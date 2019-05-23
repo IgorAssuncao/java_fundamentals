@@ -1,3 +1,6 @@
 [submodule "java_fundamentals_pt2"]
 	path = java_fundamentals_pt2
 	url = https://github.com/IgorAssuncao/java_fundamentals_pt2.git
+[submodule "java_fundamentals_pt1"]
+	path = java_fundamentals_pt1
+	url = https://github.com/IgorAssuncao/java_fundamentals_pt1.git
