@@ -4,3 +4,6 @@
 [submodule "java_fundamentals_pt1"]
 	path = java_fundamentals_pt1
 	url = https://github.com/IgorAssuncao/java_fundamentals_pt1.git
+[submodule "Sena"]
+	path = Sena
+	url = https://github.com/IgorAssuncao/Sena.git
