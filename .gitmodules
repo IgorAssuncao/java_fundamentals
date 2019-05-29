@@ -7,3 +7,9 @@
 [submodule "Sena"]
 	path = Sena
 	url = https://github.com/IgorAssuncao/Sena.git
+[submodule "JavaClassroom"]
+	path = JavaClassroom
+	url = https://github.com/IgorAssuncao/JavaClassroom.git
+[submodule "JavaClassroomArrayList"]
+	path = JavaClassroomArrayList
+	url = https://github.com/IgorAssuncao/JavaClassroomArrayList.git
