@@ -13,3 +13,6 @@
 [submodule "JavaClassroomArrayList"]
 	path = JavaClassroomArrayList
 	url = https://github.com/IgorAssuncao/JavaClassroomArrayList.git
+[submodule "java_fundamentals_pt3"]
+	path = java_fundamentals_pt3
+	url = https://github.com/IgorAssuncao/java_fundamentals_pt3.git
