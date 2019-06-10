@@ -16,3 +16,6 @@
 [submodule "java_fundamentals_pt3"]
 	path = java_fundamentals_pt3
 	url = https://github.com/IgorAssuncao/java_fundamentals_pt3.git
+[submodule "ClassroomFilesystem"]
+	path = ClassroomFilesystem
+	url = https://github.com/IgorAssuncao/ClassroomFileSystem.git
