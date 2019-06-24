@@ -19,3 +19,6 @@
 [submodule "ClassroomFilesystem"]
 	path = ClassroomFilesystem
 	url = https://github.com/IgorAssuncao/ClassroomFileSystem.git
+[submodule "Assessment"]
+	path = Assessment
+	url = https://github.com/IgorAssuncao/java_fundamentals_at
